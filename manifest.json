@@ -1,11 +1,11 @@
 {
-    "name": "",
-    "short_name": "",
-    "description": "",
+    "name": "Lab8-Starter",
+    "short_name": "David Liu",
+    "description": "In this lab we'll be adding a little bit of networking on top of that so that we can request data from servers. To keep things local-first though, we'll be managing our own response caches.",
     "start_url": "",
-    "display": "",
-    "background_color": "",
-    "theme_color": "",
+    "display": "standalone",
+    "background_color": "blue",
+    "theme_color": "green",
     "icons": [
       {
         "src": "/assets/images/icons/icon-192x192.png",
