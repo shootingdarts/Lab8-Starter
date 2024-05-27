@@ -1,7 +1,7 @@
 # Lab8-Starter
 
-[GitHub Pages]()
-![pwa](pwa.png)
+### [GitHub Pages](https://shootingdarts.github.io/Lab8-Starter/)
+### ![pwa](pwa.png)
 
 ### In your README.md, please add a short paragraph answering the question: How are graceful degradation and service workers related?
 
